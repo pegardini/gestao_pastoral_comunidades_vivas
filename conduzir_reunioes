@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Quadro-Resumo: Dicas para Conduzir Reuniões Eficazes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        h2 {
+            text-align: left;
+        }
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin-bottom: 25px;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 8px 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #eaeaea;
+        }
+    </style>
+</head>
+<body>
+    <h2>Quadro-Resumo: Dicas para Conduzir Reuniões Eficazes</h2>
+    
+    <table>
+        <tr>
+            <th>Princípio</th>
+            <th>Ação Prática</th>
+        </tr>
+        <tr>
+            <td>Acolhimento</td>
+            <td>Saudação calorosa e oração inicial</td>
+        </tr>
+        <tr>
+            <td>Regras de participação</td>
+            <td>Explique no início, incentive respeito mútuo</td>
+        </tr>
+        <tr>
+            <td>Inclusão</td>
+            <td>Dê voz a todos, use perguntas direcionadas</td>
+        </tr>
+        <tr>
+            <td>Gestão do tempo</td>
+            <td>Estabeleça limites de tempo para cada fala</td>
+        </tr>
+        <tr>
+            <td>Mediação</td>
+            <td>Busque consenso, evite conflitos</td>
+        </tr>
+        <tr>
+            <td>Registro</td>
+            <td>Anote decisões e tarefas</td>
+        </tr>
+        <tr>
+            <td>Resumo final</td>
+            <td>Recapitule decisões antes de encerrar</td>
+        </tr>
+    </table>
+</body>
+</html>
